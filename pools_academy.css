@@ -1,0 +1,7 @@
+.genzsr {
+position: fixed !important;  
+}
+
+#page_header {
+  z-index: 999;
+}
