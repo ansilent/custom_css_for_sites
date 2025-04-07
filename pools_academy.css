@@ -5,3 +5,7 @@ position: fixed !important;
 #page_header {
   z-index: 999;
 }
+
+.fzSNUp .sc-bxmmIP {
+    background-color: rgba(0, 31, 62, 0.95) !important;
+}
